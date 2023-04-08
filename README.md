@@ -9,13 +9,6 @@ Lengthy Instrumentation Generating Massive Anticompetitive Computational Help fo
 Literal Improvement Gaining Master and Tutelage on Algorithms
 Let's Intelligently Generate Multiple Algorithm Training Assessments // permdaddy
 
-### Sugma Nuts
-Studious Users Get Major Abilities. New Useful Training for Students
-
-### Ligma Farts
-Learn Intermediate Groundbreaking Massive Algorithms. Free Algorithm Research & Training System
-
-
 ### If you have a suggestion
 make an issue and we will come up with the potential name.
 
