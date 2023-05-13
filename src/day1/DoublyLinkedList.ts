@@ -2,7 +2,6 @@ type Node<T> = {
   value: T
   prev?: Node<T>,
   next?: Node<T>
-  
 }
 
 export default class DoublyLinkedList<T> {
@@ -47,8 +46,8 @@ export default class DoublyLinkedList<T> {
     newNode.prev = currentNode.prev
     currentNode.prev = newNode
 
-    if (currentNode.prev) {
-      currentNode.prev.next = currentNode
+    if (newNode.prev) {
+      newNode.prev.next = currentNode
 
     }
   }
