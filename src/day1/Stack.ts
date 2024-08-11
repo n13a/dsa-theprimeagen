@@ -7,8 +7,6 @@ export default class Stack<T> {
     public length: number;
     private head?: Node<T>
 
-
-
     constructor() {
         this.head = undefined
         this.length = 0

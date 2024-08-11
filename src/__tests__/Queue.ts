@@ -1,6 +1,6 @@
 import Queue from "@code/Queue";
 
-test("queue", function () {
+test("queue", function() {
     const list = new Queue<number>();
 
     list.enqueue(5);
@@ -25,6 +25,7 @@ test("queue", function () {
 
     // just wanted to make sure that I could not blow up myself when i remove
     // everything
+
     list.enqueue(69);
     expect(list.peek()).toEqual(69);
     expect(list.length).toEqual(1);

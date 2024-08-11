@@ -1,6 +1,6 @@
 import MinHeap from "@code/MinHeap";
 
-test("min heap", function () {
+test("min heap", function() {
     const heap = new MinHeap();
 
     expect(heap.length).toEqual(0);

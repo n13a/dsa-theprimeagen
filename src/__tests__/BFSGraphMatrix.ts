@@ -1,7 +1,7 @@
 import bfs from "@code/BFSGraphMatrix";
 import { matrix2 } from "./graph";
 
-test("bfs - graph matrix", function () {
+test("bfs - graph matrix", function() {
     expect(bfs(matrix2, 0, 6)).toEqual([
         0,
         1,

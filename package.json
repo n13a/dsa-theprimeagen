@@ -19,5 +19,11 @@
         "prettier": "prettier --write ./src",
         "generate": "node ./scripts/generate.js",
         "day": "echo src\\day1"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.4.0",
+        "@typescript-eslint/parser": "^6.4.0",
+        "eslint": "^8.47.0",
+        "eslint-plugin-react": "^7.33.1"
     }
 }
