@@ -1,7 +1,7 @@
 import dfs from "@code/DFSGraphList";
 import { list2 } from "./graph";
 
-test("dfs - graph", function () {
+test("dfs - graph", function() {
     expect(dfs(list2, 0, 6)).toEqual([
         0,
         1,
